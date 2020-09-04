@@ -1,0 +1,125 @@
+body {
+    color: #40514E;;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; 
+    color: #056676;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #056676;
+    font-weight: normal;
+    
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+.pro {
+    text-decoration: underline;
+}
+
+
+.top-container {
+    background-color: #bfdcae;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    margin: 50px 0;
+}
+
+.bottom-container {
+    background-color: #bfdcae;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+.bottom-cloud {
+    position:absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+
+.profileImage {
+    width: 15%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logoSize {
+    height: 150px;
+    width: 150px;
+}
+
+.myskills {
+    margin-bottom: 0;
+} 
+
+.footer-link {
+    color: #11999E;
+}
+
+.intro {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.hello {
+    margin: 10px 0 10px 0;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+a{
+    margin: 0 10px 0 10px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.copy {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+.skilldata {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
